@@ -1,6 +1,6 @@
-baseurl = "http://hugo.spf13.com/"
+baseurl = "http://cfaught.github.io/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Port of Code"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -12,7 +12,7 @@ pluralizeListTitles = false
     # Sets the meta tag description, usually reserved for the main page
     description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "Port of Code"
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
@@ -121,7 +121,7 @@ pluralizeListTitles = false
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "jpescador"
+    github          = "CFaught"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -147,5 +147,5 @@ pluralizeListTitles = false
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "julio_pescador"
+    twitter         = "cfaught12"
     email           = ""
