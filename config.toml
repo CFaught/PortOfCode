@@ -10,7 +10,7 @@ pluralizeListTitles = false
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    description          = "Learn how code and craft quality software with interactive tutorials in JavaScript"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Port of Code"
     # set this to the section name if section is not post
@@ -55,11 +55,11 @@ pluralizeListTitles = false
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Hugo Future Imperfect"
+    header    = "Port of Code"
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "Port of call for new and seasoned programmers alike. I will be adding Javascript tutrials, my thoughts on frameworks and build tools, as well as projects that you can follow along with. Thanks for stopping by! - Caleb Faught"
 
-    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+    about     = "My name is Caleb Faught, I am a full time Javascript developer working on small to medium sized applications in a municipal setting with public services departments. I write in Vue.js a lot but also use Angular, React, React Native, and Native Script."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -71,7 +71,7 @@ pluralizeListTitles = false
     circle    = false
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "port of code logo"
 
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
@@ -100,7 +100,7 @@ pluralizeListTitles = false
     weight = 3
 
 [[menu.main]]
-    name = "Itemized"
+    name = "Tutorials"
     url = "/itemized/"
     identifier = "fa fa-list"
     weight = 4
@@ -148,4 +148,4 @@ pluralizeListTitles = false
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = "cfaught12"
-    email           = ""
+    email           = "faughtcj@gmail.com"
