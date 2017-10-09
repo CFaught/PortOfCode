@@ -100,7 +100,7 @@ pluralizeListTitles = false
     weight = 3
 
 [[menu.main]]
-    name = "Tutorials"
+    name = "Itemized"
     url = "/itemized/"
     identifier = "fa fa-list"
     weight = 4
