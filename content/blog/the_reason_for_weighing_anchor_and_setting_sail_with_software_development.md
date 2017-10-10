@@ -7,7 +7,7 @@ featured = "pic1.png"
 featuredalt = "Beach Scene"
 featuredpath = "date"
 linktitle = ""
-title = "The Reason for Weighing Anchor and Setting Sail with Software Development"
+title = "Why I am Changing Careers to Software Development"
 type = "post"
 
 +++
@@ -17,7 +17,7 @@ type = "post"
 In high school, I decided to take a class in Computer Science based in Java. At the time I was looking forward to making a game or something interesting, and was disenchanted when we delved into nothing but algorithims and data structures; I did, however learn a few things that would later become useful.
 
 
-<img src="/img/2016/05/pic2.jpg" alt="ROV" style="height: 200px; float: right;"/>
+<img src="/img/2016/05/pic2.jpg" alt="DIY Remotely Operated Vehicle Built Using Arduino and Python" style="height: 200px; float: right;"/>
 
 Fast forward a few years, in the summer of my sophmore year of college (2010), I started to read about people building interesting things with something called an Arduino which is a microcontroller programmed with a language based on C. One of the most interesting things that I saw someone had made was a remotely operated vehicle or ROV which is basically an underwater robot with a camera controlled from the surface. Since I was in school for Ocean Engineering I decided that I absolutely had to build one, so I ordered the parts I thought I would need including one of those Arduino boards that everyone was talking about; and there I was, back to looking at a cold piece of metal and silicon that would do absolutely nothing unless you could explain to it what you wanted. Fortunately, since everyone was talking about the Arduino, there was a plethera of documentation online on how to get started in programming in a friendly way. Since I had the whole summer to myself, I spent just about every waking moment building my ROV and probably just as much time Googling all the problems that I was running into.
 
