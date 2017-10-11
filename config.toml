@@ -4,7 +4,7 @@ title = "Port of Code"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "portofcode-com"
 googleAnalytics = ""
 pluralizeListTitles = false
 
@@ -20,8 +20,8 @@ pluralizeListTitles = false
     # This will match the navbarTitle to the section of the website
     dynamicTitles        = true
     # RSS icon that appear on the sidebar, next to the social media buttons
-    rssAppearAtTop       = true
-    rssAppearAtBottom    = true
+    rssAppearAtTop       = false
+    rssAppearAtBottom    = false
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -98,24 +98,35 @@ pluralizeListTitles = false
     url = "/blog/"
     identifier = "fa fa-newspaper-o"
     weight = 3
+#
+# [[menu.main]]
+#     name="Tutorials"
+#     identifier="fa fa-list"
+#     url=""
 
 [[menu.main]]
-    name = "Itemized"
+    name = "Tutorials"
     url = "/itemized/"
-    identifier = "fa fa-list"
+    identifier = "fa fa-file-text"
     weight = 4
-
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    identifier = "fa fa-sitemap"
-    weight = 5
+#
+# [[menu.main]]
+#     name = "Raspberry Pi"
+#     url = "/tutorials/raspberrypi/"
+#     identifier = "fa fa-microchip"
+#     weight = 5
+#
+# [[menu.main]]
+#     name = "Categories"
+#     url = "/categories/"
+#     identifier = "fa fa-sitemap"
+#     weight = 6
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
     identifier = "fa fa-envelope-o"
-    weight = 6
+    weight = 7
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
@@ -142,7 +153,7 @@ pluralizeListTitles = false
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
-    pinterest       = ""
+    pinterest       = "portofcode"
     googleplus      = ""
     facebook        = ""
     facebook_admin  = ""

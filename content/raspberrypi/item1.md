@@ -1,17 +1,17 @@
 +++
 type = "itemized"
 author = "Caleb Faught"
-date = "2017-10-01"
-title = "Javascript Basics"
-description = "Basic Javascript syntax and programming concepts."
-featured = "JS.png"
+date = "2017-10-10"
+title = "Raspberry Pi Basics"
+description = "Basics of the Raspberry Pi Credit Card Sized Computer."
+featured = ""
 featuredpath = "date"
-featuredalt = "Javascript logo"
-categories = ["Javascript"]
-platform = "Web"
+featuredalt = "Raspberry Pi logo"
+categories = ["Raspberry Pi"]
+platform = "Computers"
 +++
 
-# Javascript Basics
+# Raspberry Pi Basics
 In my opinion, Javascript is a great language for beginners, because it is already installed in your browser! You can open up the console (Cmd + Opt + J for Mac OS users and Ctrl + Shift + J for Windows users) in Chrome and start writing code immediately. Alternatively, I will have code examples like the one below spaced throughout with an interactive prompt where you can write code and just hit run.
 
 <script src="//repl.it/embed/MYtY/1.js"></script>
