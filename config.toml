@@ -42,7 +42,7 @@ pluralizeListTitles = false
     # customCSS            = ["default", "/path/to/file"]
     # customJS             = ["default", "/path/to/file"]
 
-    customCSS            = ["default"]
+    customCSS            = ["default", "/static/css/add-on.css"]
     customJS             = ["default"]
 
 # Disqus will take priority over staticman due to its ease of use. Feel free to check out both and decide.
@@ -106,15 +106,25 @@ pluralizeListTitles = false
 
 [[menu.main]]
     name = "Tutorials"
-    url = "/itemized/"
-    identifier = "fa fa-file-text"
+    url = "#"
+    identifier = "Tutorials"
     weight = 4
-#
-# [[menu.main]]
-#     name = "Raspberry Pi"
-#     url = "/tutorials/raspberrypi/"
-#     identifier = "fa fa-microchip"
-#     weight = 5
+    hasChildren=true
+
+    [[menu.main]]
+        name = "Raspberry Pi"
+        url = "/raspberrypi/"
+        parent="Tutorials"
+        identifier = "fa fa-microchip"
+        weight=5
+
+    [[menu.main]]
+        name = "Javascript"
+        url = "/javascript/"
+        parent="Tutorials"
+        identifier = "fa fa-code"
+        weight=5
+
 #
 # [[menu.main]]
 #     name = "Categories"
