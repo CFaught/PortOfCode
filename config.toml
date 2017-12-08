@@ -10,7 +10,7 @@ pluralizeListTitles = false
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Learn how code and craft quality software with interactive tutorials in JavaScript"
+    description          = "Learn how code to and craft quality software with interactive tutorials in JavaScript"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Port of Code"
     # set this to the section name if section is not post
