@@ -1,11 +1,9 @@
 +++
 author = "Caleb Faught"
-categories = ["Programming", "Resources"]
-date = "2017-10-19"
+categories = ["Programming"]
+date = "2017-10-18"
 description = "Other Resources for Learning to Code"
-featured = ""
-featuredalt = ""
-featuredpath = ""
+
 linktitle = ""
 title = "Resources"
 type = "post"

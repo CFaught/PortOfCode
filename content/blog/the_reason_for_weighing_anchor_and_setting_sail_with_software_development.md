@@ -1,6 +1,6 @@
 +++
 author = "Caleb Faught"
-categories = ["programming", "career change", "web development", "Ruby", "Javascript"]
+categories = ["Programming", "Web Development", "Ruby", "Javascript"]
 date = "2016-05-06"
 description = "My thoughts on why I decided to get into software development, and switching careers."
 featured = "pic1.png"

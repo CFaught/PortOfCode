@@ -1,6 +1,6 @@
 +++
 author = "Caleb Faught"
-categories = ["programming", "Ruby"]
+categories = ["Programming", "Ruby"]
 date = "2016-05-30"
 description = "Brief overview of what programming even is, and breaking down some of the abstract ideas."
 featured = "pic3.jpeg"

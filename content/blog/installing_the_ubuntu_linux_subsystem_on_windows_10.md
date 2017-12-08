@@ -1,7 +1,7 @@
 
 +++
 author = "Caleb Faught"
-categories = ["Operating Systems", "Linux", "Windows"]
+categories = ["Operating Systems"]
 date = "2017-02-19"
 description = "Adding a Linux Subsystem to Windows 10"
 featured = "pic1.jpg"
